@@ -50,6 +50,7 @@ class StringOveruseVisitor(base.BaseNodeVisitor):
         '\t',
         '|',
         '"',
+        b'"',
         b' ',
         b'.',
         b',',
